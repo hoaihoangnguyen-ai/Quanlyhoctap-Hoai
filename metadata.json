@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trợ Lý Quản Trị Học Tập – Cô Hoàng Thị Hoài",
+  "description": "Hệ thống quản trị học tập Trung tâm bồi dưỡng Tiếng Anh ngoài nhà trường, Tp.HCM",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
